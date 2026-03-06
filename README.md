@@ -137,6 +137,7 @@ Esta estructura permite analizar el negocio de forma eficiente desde distintas d
 
 The project repository is organized to separate **data, dashboards, documentation and visual assets**, following a structure commonly used in data analytics and Business Intelligence projects.
 
+```
 powerbi-analisis-ventas-rentabilidad
 │
 ├── assets/
@@ -167,6 +168,7 @@ powerbi-analisis-ventas-rentabilidad
 │   └── 07_geographic_performance.md
 │
 └── README.md
+```
 
 **Folder description**
 
